@@ -57,7 +57,7 @@ const Navbar = () => {
                     </div>
                 </div>
             </div>
-            hcgr
+
 
 
         </nav>
