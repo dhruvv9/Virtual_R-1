@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+#  Virtual_R-1 product landing page using React + Vite and Tailwindcss
+I have created a responsive landing page featuring a fully responsive navbar with a mobile drawer for displaying all the links. The site includes an appealing hero section that utilizes gradient text, lending a modern look to the design. Additionally, the webpage employs the video tag to showcase autoplaying and looping videos. This project is built to develop my skills .
