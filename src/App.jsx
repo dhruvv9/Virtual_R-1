@@ -4,6 +4,8 @@ import HeroSection from './components/HeroSection';
 import FeatureSection from './components/FeatureSection';
 import Workflow from './components/Workflow';
 import Price from './components/Price';
+import Testimonials from './components/Testimonials';
+import Footer from './components/Footer';
 
 function App() {
   return (
@@ -14,6 +16,8 @@ function App() {
       <FeatureSection/>
       <Workflow/>
       <Price/>
+      <Testimonials/>
+      <Footer/>
       
       </div>
     </>
